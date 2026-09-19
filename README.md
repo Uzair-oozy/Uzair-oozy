@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Uzair-oozy
 - 🌱 I’m currently learning C#
-- 📫 How to reach me: oozy004@gmail.com
